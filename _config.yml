@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Shanmukha Agastyaraju"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/profile_pic.jpg"
   bio              : "I am an amazing person."
   location         : "Hyderabad, India"
   email            : shanmukha.agastyaraju@gmail.com
