@@ -1,7 +1,7 @@
 ---
 
-permalink: /projects/
 title: "Machine Learning projects by tags"
+permalink: /projects/
 author_profile: true
 
 ---
